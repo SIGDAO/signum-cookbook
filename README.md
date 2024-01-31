@@ -31,7 +31,9 @@ https://github.com/signum-network/signumj(SignumJ)
 
 https://signum-network.github.io/signumjs/globals.html(signumJS)
 
-https://github.com/deleterium/neoclassic-wallet(new wallet on node)
+https://github.com/ohager/
+
+https://github.com/deleterium/
 
 https://github.com/rodrigue10/SignumExplorer (explorer by .NET)
 
@@ -42,6 +44,8 @@ https://github.com/deleterium/SmartC
 https://github.com/deleterium/smartc-web-ui
 
 https://deleterium.github.io/Signum-D-Or/signum-d-or.html
+
+https://github.com/ohager/signum-smartc-testbed
 
 Examples:
 
