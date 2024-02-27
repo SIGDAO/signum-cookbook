@@ -37,7 +37,7 @@ https://github.com/deleterium/
 
 https://github.com/rodrigue10/SignumExplorer (explorer by .NET)
 
-SmartC:
+SmartC: Compiler, Decompiler, Optimizer and Recompiler for smart contracts on Signum Blockchain.
 
 https://github.com/deleterium/SmartC
 
@@ -73,7 +73,7 @@ https://testnet.explorer.signum.network/
 
 https://test.signumart.io/
 
-Portal:
+Portal/ dAPP:
 
 https://www.signumswap.com/
 
