@@ -15,11 +15,11 @@ Explorer:
 
 https://explorer.signum.network/(Block Explorer)
 
-Doc:
+Api-Doc:
+
+https://europe.signum.network/api-doc/index.html
 
 https://docs.signum.network/signum
-
-https://drive.google.com/drive/folders/1yv0ohoh5JcmgADZwswEetZrlS1h0DW6e?usp=sharing
 
 Repos:
 
@@ -48,8 +48,6 @@ https://deleterium.github.io/Signum-D-Or/signum-d-or.html
 https://github.com/ohager/signum-smartc-testbed
 
 Examples:
-
-https://europe.signum.network/api-doc/index.html
 
 https://github.com/andylamgot/signum-xt-wallet-react-demo
 
