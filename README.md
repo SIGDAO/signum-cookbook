@@ -156,6 +156,16 @@ https://sigdao.io
 
 https://bettermi.io
 
+Exchanges:
+DEX:
+https://www.signumswap.com/
+https://pancakeswap.finance/info/pairs/0xb3c716e8d1ddbeee8064e2e8c85c6812247a86cb
+
+CEX:
+https://xeggex.com/market/SIGNA_USDT
+https://indodax.com/market/SIGNAIDR
+
+
 ---
 Conclusion
 Signum Network is a game-changer in the blockchain landscape. Its focus on sustainability, innovation, and versatility makes it an ideal platform for building the next generation of decentralized applications and digital assets. With its commitment to continuous development and community involvement, Signum is poised to shape the future of blockchain technology.
