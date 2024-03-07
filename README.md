@@ -70,9 +70,9 @@ Native token handling: Tokens on Signum exist directly on the blockchain, enabli
 # Signum Cookbook Recipes for developers:
 Websites:
 
-https://signum.network  (start here and go deep please)
+https://signum.network/
 
-https://signum.community/(by community but might not uptodate)
+https://signum.community/
 
 Wallets:
 
@@ -92,19 +92,23 @@ https://docs.signum.network/signum
 
 Repos:
 
-https://github.com/signum-network  (Node, classicWallet, explorer, XTwallet, phoenix wallet, signumJ, signumjs, smartJ,)
+(Node, classicWallet, explorer, XTwallet, phoenix wallet, signumJ, signumjs, smartJ,)
+https://github.com/signum-network  
 
-https://github.com/btdex (DEX, miner)
+(DEX, miner)
+https://github.com/btdex
 
-https://github.com/signum-network/signumj(SignumJ)
+(SignumJ - smart contract)
+https://github.com/signum-network/signumj
 
-https://signum-network.github.io/signumjs/globals.html(signumJS)
+(signumJS)
+https://signum-network.github.io/signumjs/
 
 https://github.com/ohager/
 
 https://github.com/deleterium/
 
-https://github.com/rodrigue10/SignumExplorer (explorer by .NET)
+https://github.com/rodrigue10/SignumExplorer
 
 SmartC (Smart Contract)
 
@@ -140,7 +144,7 @@ https://testnet.explorer.signum.network/
 
 https://test.signumart.io/
 
-Portal:
+dApp Portal:
 
 https://www.signumswap.com/
 
