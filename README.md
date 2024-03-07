@@ -80,9 +80,9 @@ https://docs.signum.network/ecosystem/wallets
 
 https://cryptocurrencycheckout.com/coin/signum
 
-Explorer:
+Block Explorer:
 
-https://explorer.signum.network/(Block Explorer)
+https://explorer.signum.network/
 
 Api-Doc:
 
@@ -106,7 +106,7 @@ https://github.com/deleterium/
 
 https://github.com/rodrigue10/SignumExplorer (explorer by .NET)
 
-SmartC:
+SmartC (Smart Contract)
 
 https://github.com/deleterium/SmartC
 
@@ -157,3 +157,4 @@ Conclusion
 Signum Network is a game-changer in the blockchain landscape. Its focus on sustainability, innovation, and versatility makes it an ideal platform for building the next generation of decentralized applications and digital assets. With its commitment to continuous development and community involvement, Signum is poised to shape the future of blockchain technology.
 
 SIGDAO — Together we build web3 dAPP greener & better! JOIN US!
+https://sigdao.io
